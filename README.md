@@ -2,6 +2,7 @@
 A app that has the Basic flutter components based on multiple videos;)
 
 ## HomePage
+![alt text](https://github.com/spacebrat76/Flutter-Components/blob/main/homePage.png)
 
 
 
