@@ -7,6 +7,8 @@ A app that has the Basic flutter components based on multiple videos;)
 3. Copy the files in this directory and paste it
 4. Build the Project
 
+***
+
 ### HomePage
 ![alt text](https://github.com/spacebrat76/Flutter-Components/blob/main/homePage.png)
 
@@ -16,5 +18,6 @@ A app that has the Basic flutter components based on multiple videos;)
 ### Flutter Components
 ![alt text](https://github.com/spacebrat76/Flutter-Components/blob/main/flutterComponents.png)
 
+***
 
 **PS: It was not completely developed by me ;)** 
